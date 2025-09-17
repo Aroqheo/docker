@@ -1,0 +1,3 @@
+# Aroqheo/docker
+
+这是 Onepisce.Two 的陵城节点原型，支持 FastAPI 服务挂载、Docker 部署、角色识别与频率调度。
